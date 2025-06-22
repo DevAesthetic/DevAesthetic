@@ -22,21 +22,19 @@
 - 🎯 Focused on system-level dev, automation, modding, and AI integration
 
 ---
-
+<!--
 ## 🧰 OS & Tools I Use
 
 <p align="left">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Termux-000000?style=flat&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDB-000000?style=flat&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/IDA%20Pro-1E1E1E?style=flat&logo=data&logoColor=white" />
 </p>
-
+-->
 ---
 
 ## 📊 GitHub Stats
