@@ -18,7 +18,7 @@
 ## 🧠 About Me
 ```bash
 > whoami
-DevAesthetic | Full-Stack Hacker 🔥
+DevAesthetic | Generative Ai r 🔥
 ```
 
 - 🧩 Self-taught developer & hacker  
