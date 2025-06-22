@@ -22,7 +22,7 @@
 - 🎯 Focused on system-level dev, automation, modding, and AI integration
 
 ---
-<!--
+
 ## 🧰 OS & Tools I Use
 
 <p align="left">
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Termux-000000?style=flat&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/IDA%20Pro-1E1E1E?style=flat&logo=data&logoColor=white" />
 </p>
--->
+
 ---
 
 ## 📊 GitHub Stats
