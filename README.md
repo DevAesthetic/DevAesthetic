@@ -1,78 +1,87 @@
-## Hi there 👋
-<h1 align="center">Hi there 👋, I'm DevAesthetic</h1>
-<h3 align="center">iPhone Jailbreaking • Reverse Engineering • Generative AI • Developer & Modder</h3>
+<h1 align="center">🚀 Hey, I'm <span style="color:#ff007f;">DevAesthetic</span> 👾</h1>
+<h3 align="center">🔓 iPhone Jailbreaks | 🧠 Reverse Engineering | 🤖 Generative AI | 💻 Full-Stack Modder</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-000000?style=flat&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jailbreak-iOS-black?style=flat&logo=apple&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=550&lines=Self-Taught+Hacker+%26+Dev;Reverse+Engineering+Addict;AI+Experimenter;Jailbreak+Creator;Modding+Everything+%F0%9F%94%A5;Root+%7C+Patch+%7C+Exploit+%E2%9A%94" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-121212?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jailbreak-iOS-black?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 ---
 
 ## 🧠 About Me
+```bash
+> whoami
+DevAesthetic | Full-Stack Hacker 🔥
+```
 
-- 🧩 Self-taught developer & hacker by heart  
-- 📱 Deep into iPhone Jailbreaking, Root Access & Exploits  
-- 🔍 Reverse Engineering enthusiast — binaries, apps, and OS internals  
-- 🧠 Generative AI user and experimenter with LLMs  
-- 💻 Hardcore coder: Python | PHP | C++  
-- 🎯 Focused on system-level dev, automation, modding, and AI integration
-
----
-
-## 🧰 OS & Tools I Use
-
-<p align="left">
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Termux-000000?style=flat&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA%20Pro-1E1E1E?style=flat&logo=data&logoColor=white" />
-</p>
+- 🧩 Self-taught developer & hacker  
+- 📱 Obsessed with iOS Jailbreaking, Rooting & Low-Level Access  
+- 🪛 RE enthusiast — disassemblers, memory maps, binary patches  
+- 🤖 Generative AI junkie — LLMs, automation, GPTs  
+- 💻 Hardcore coding in Python, PHP, and C++  
+- 🔐 Love messing with APIs, memory, exploits, and mods  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tools, OS & Workflow Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAesthetic&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevAesthetic&theme=radical&hide_border=false" height="160"/>
+  <img src="https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA_Pro-grey?style=for-the-badge&logo=data&logoColor=white" />
 </p>
 
+---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAesthetic&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAesthetic&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevAesthetic&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me
 
-- 💬 Telegram: [@VipXAesthetic](https://t.me/VipXAesthetic)  
-- 🌐 Discord: `meaesthetic`  
-- 🧑‍💻 GitHub: [DevAesthetic](https://github.com/DevAesthetic)
+<table align="center">
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=telegram" height="25"/></td>
+    <td><a href="https://t.me/VipXAesthetic">@VipXAesthetic</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=discord" height="25"/></td>
+    <td>meaesthetic</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=github" height="25"/></td>
+    <td><a href="https://github.com/DevAesthetic">DevAesthetic</a></td>
+  </tr>
+</table>
 
 ---
 
-> *"Code what they said was impossible. Break what they said was unbreakable."*
+## 🧩 Code Philosophy
+> 🦾 *"Code what they said was impossible. Break what they said was unbreakable."*  
+> — DevAesthetic
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevAesthetic&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=DevAesthetic&label=Profile%20Views&color=ff69b4&style=flat-square" />
 </p>
 
-<!--
-**DevAesthetic/DevAesthetic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
