@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey, I'm <span style="color:#ff007f;">DevAesthetic</span> 👾</h1>
+<h1 align="center">🚀 Hey, I'm <span style="color:#ff007f;">Chitraarth</span> 👾</h1>
 <h3 align="center">🔓 iPhone Jailbreaks | 🧠 Reverse Engineering | 🤖 Generative AI | 💻 Developing </h3>
 
 <p align="center">
