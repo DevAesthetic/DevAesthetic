@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey, I'm <span style="color:#ff007f;">Chitraarth, 16year Old</span> 👾</h1>
+<h1 align="center">🚀 Hey, I'm <span style="color:#ff007f;">Chitraarth</span> 👾</h1>
 <h3 align="center">🔓 🧠 Reverse Engineering | 🤖 Generative AI | 💻 Developing </h3>
 
 <p align="center">
@@ -22,6 +22,7 @@ DevAesthetic | Generative Ai 🔥
 ```
 
 - 🧩 Self-taught developer & hacker  
+- 16year Old High School Student
 - 📱 Obsessed with iOS Jailbreaking, Rooting & Low-Level Access  
 - 🪛 RE enthusiast — disassemblers, memory maps, binary patches  
 - 🤖 Generative AI junkie — LLMs, automation, GPTs  
