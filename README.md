@@ -22,7 +22,6 @@ DevAesthetic | Generative Ai 🔥
 ```
 
 - 🧩 Self-taught developer & hacker  
-- 16year Old High School Student
 - 📱 Obsessed with iOS Jailbreaking, Rooting & Low-Level Access  
 - 🪛 RE enthusiast — disassemblers, memory maps, binary patches  
 - 🤖 Generative AI junkie — LLMs, automation, GPTs  
