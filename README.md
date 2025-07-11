@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Hey, I'm <span style="color:#ff007f;">Chitraarth</span> 👾</h1>
-<h3 align="center">🔓 iPhone Jailbreaks | 🧠 Reverse Engineering | 🤖 Generative AI | 💻 Developing </h3>
+<h1 align="center">🚀 Hey, I'm <span style="color:#ff007f;">Chitraarth, 16year Old</span> 👾</h1>
+<h3 align="center">🔓 🧠 Reverse Engineering | 🤖 Generative AI | 💻 Developing </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=550&lines=Self-Taught+Hacker+%26+Dev;Reverse+Engineering+Addict;AI+Experimenter;Jailbreak+Creator;Modding+Everything+%F0%9F%94%A5;Root+%7C+Patch+%7C+Exploit+%E2%9A%94" />
